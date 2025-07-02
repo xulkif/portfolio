@@ -100,12 +100,6 @@ Hi! I'm **Zulkif Azher** — a passionate developer who loves building creative,
 - **LinkedIn:** [www.linkedin.com/in/zulkif-azher-a750b9372] 
 - **GitHub:** [https://github.com/xulkif] 
 
----
+ 
 
-## 🏷️ License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-> Made with ❤️ by Zulkif Azher
+ 
