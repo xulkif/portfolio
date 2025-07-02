@@ -19,7 +19,7 @@ export default function Intro() {
     
     // Set the CV file path (place your CV in the public folder)
     // You can use different file formats: .pdf, .docx, .doc
-    link.href = '/myCvLast.pdf'; // Change this to your actual CV filename
+    link.href = '/CV.pdf'; // Change this to your actual CV filename
     
     // Set the download attribute with a custom filename
     link.download = 'Zulkif_Azher_CV.pdf'; // Change this to your preferred filename
